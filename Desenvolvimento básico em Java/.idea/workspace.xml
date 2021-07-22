@@ -4,7 +4,66 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65312139-fd85-40f2-87fe-0818703e78ae" name="Default Changelist" comment="" />
+    <list default="true" id="65312139-fd85-40f2-87fe-0818703e78ae" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/oo/part01/paradigma/exemplo001/ExemploInstanciaObjeto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/oo/part01/paradigma/exemplo001/ExemploMetodos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/oo/part01/paradigma/exemplo001/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/oo/part02/construtores/exemplo001/ExemploInstanciaObjeto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/oo/part02/construtores/exemplo001/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/oo/part02/construtores/exemplo002/ExemploInstanciaObjeto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/oo/part02/construtores/exemplo002/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/oo/part02/construtores/exemplo003/ExemploInstanciaObjeto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/oo/part02/construtores/exemplo003/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/oo/part03/encapsulamento/exemplo001/Exemplo001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/oo/part03/encapsulamento/exemplo001/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/oo/part03/heranca/exemplo001/Carro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/oo/part03/heranca/exemplo001/Exemplo001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/oo/part03/heranca/exemplo001/Motocicleta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/oo/part03/heranca/exemplo001/Veiculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/oo/part03/heranca/exemplo002/Carro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/oo/part03/heranca/exemplo002/Exemplo002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/oo/part03/heranca/exemplo002/Motocicleta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/oo/part03/heranca/exemplo002/Veiculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/oo/part03/heranca/exemplo003/Carro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/oo/part03/heranca/exemplo003/Exemplo003.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/oo/part03/heranca/exemplo003/Motocicleta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/oo/part03/heranca/exemplo003/Veiculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/oo/part04/exemploEquals/exemplo001/Carro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/oo/part04/exemploEquals/exemplo001/Exemplo001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/oo/part04/exemploEquals/exemplo001/Veiculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/oo/part04/exemploEquals/exemplo002/Carro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/oo/part04/exemploEquals/exemplo002/Exemplo002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/oo/part04/exemploEquals/exemplo002/Veiculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/oo/part04/exemploHashCode/Carro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/oo/part04/exemploHashCode/Exemplo002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/oo/part04/exemploHashCode/Veiculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/oo/part04/exemploSuper/Carro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/oo/part04/exemploSuper/Veiculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/oo/part04/exemploThis/Carro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/oo/part04/exemploThis/Motocicleta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/oo/part04/exemploThis/Veiculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/trabalhandoComDatas/javaCalendar/Exemplo005.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/trabalhandoComDatas/javaCalendar/Exemplo006.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/trabalhandoComDatas/javaCalendar/Exemplo007.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/trabalhandoComDatas/javaDate/Exemplo001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/trabalhandoComDatas/javaDate/Exemplo002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/trabalhandoComDatas/javaDate/Exemplo003.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/trabalhandoComDatas/javaDate/Exemplo004.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/trabalhandoComDatas/javaDate/Exemplo005.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/trabalhandoComDatas/javaDate/Exercicio001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/trabalhandoComDatas/javaDateFormat/Exemplo008.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/trabalhandoComDatas/javaDateFormat/Exemplo009.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/trabalhandoComDatas/javaLocalDate/Exemplo010.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/trabalhandoComDatas/javaLocalDate/Exemplo011.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/trabalhandoComDatas/javaLocalDate/Exemplo012.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/trabalhandoComDatas/javaLocalDate/Exemplo013.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orientação a Objeto com Java/src/main/java/aulas/trabalhandoComDatas/javaLocalDate/Exemplo014.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +88,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/exemploComGradle" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="65312139-fd85-40f2-87fe-0818703e78ae" name="Default Changelist" comment="" />
