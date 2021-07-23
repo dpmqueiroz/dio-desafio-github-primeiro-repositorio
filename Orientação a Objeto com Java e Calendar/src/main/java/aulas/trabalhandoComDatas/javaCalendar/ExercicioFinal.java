@@ -7,7 +7,7 @@ public class ExercicioFinal {
 
         Calendar dataHoje = Calendar.getInstance();
         System.out.println(dataHoje.getTime());
-        dataHoje.add(Calendar.DATE, 9);
+        dataHoje.add(Calendar.DATE, 10);
         System.out.println("A data de vencimento deveria ser: " + dataHoje.getTime());
 
         while(dataHoje.getTime().getDay() == 0 || dataHoje.getTime().getDay() == 6){

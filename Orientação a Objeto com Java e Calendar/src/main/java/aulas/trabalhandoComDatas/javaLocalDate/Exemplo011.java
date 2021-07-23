@@ -18,5 +18,7 @@ public class Exemplo011 {
         System.out.println(ontem);
         // 2019-07-13
 
+        System.out.println(hoje.getDayOfWeek());
+        // 2019-07-14
     }
 }

@@ -12,6 +12,5 @@ public class Exemplo012 {
 
         System.out.println(agora);
         // 23:53:58.421
-
     }
 }
